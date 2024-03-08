@@ -13,9 +13,6 @@ public class GbLinkedList<E> implements GbList<E> {
         this.size = 0;
     }
 
-    public Node<E> getHead() {
-        return head;
-    }
 
     @Override
     public void add(E value) {

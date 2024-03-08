@@ -1,6 +1,5 @@
 package gbCollections.lists.util;
 
-import gbCollections.lists.GbLinkedList;
 
 import java.util.Iterator;
 
